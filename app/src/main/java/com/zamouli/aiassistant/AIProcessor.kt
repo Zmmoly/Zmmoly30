@@ -32,21 +32,21 @@ import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 
 // إضافة استيرادات الفئات من الحزم الصحيحة
-import com.zamouli.aiassistant.speech.VoiceToneAnalyzer
-import com.zamouli.aiassistant.core.UserProfileManager
-import com.zamouli.aiassistant.analysis.BehaviorAnalyzer
-import com.zamouli.aiassistant.health.HealthTracker
-import com.example.aiassistant.RecommendationEngine
-import com.zamouli.aiassistant.analysis.ConversationAnalyzer
-import com.zamouli.aiassistant.reasoning.LogicalReasoningEngine
-import com.zamouli.aiassistant.automation.DeviceController
-import com.zamouli.aiassistant.automation.AutomationController
-import com.zamouli.aiassistant.automation.AutomationCommand
-import com.zamouli.aiassistant.web.WebProcessorBridge
-import com.zamouli.aiassistant.medical.MedicalAnalysisProcessor
-import com.zamouli.aiassistant.core.InteractionType
-import com.zamouli.aiassistant.core.TimeOfDay
-import com.zamouli.aiassistant.recommendation.RecommendationContext
+import com.zamouli.aiassistant.VoiceToneAnalyzer
+import com.zamouli.aiassistant.UserProfileManager
+import com.zamouli.aiassistant.BehaviorAnalyzer
+import com.zamouli.aiassistant.HealthTracker
+import com.zamouli.aiassistant.RecommendationEngine
+import com.zamouli.aiassistant.ConversationAnalyzer
+import com.zamouli.aiassistant.LogicalReasoningEngine
+import com.zamouli.aiassistant.DeviceController
+import com.zamouli.aiassistant.AutomationController
+import com.zamouli.aiassistant.AutomationCommand
+import com.zamouli.aiassistant.WebProcessorBridge
+import com.zamouli.aiassistant.MedicalAnalysisProcessor
+import com.zamouli.aiassistant.InteractionType
+import com.zamouli.aiassistant.TimeOfDay
+import com.zamouli.aiassistant.RecommendationContext
 
 /**
  * Class responsible for AI text processing using TensorFlow Lite
