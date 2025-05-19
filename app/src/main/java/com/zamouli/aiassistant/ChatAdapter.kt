@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.ui
+package com.zamouli.aiassistant
 
 import android.view.LayoutInflater
 import android.view.View
