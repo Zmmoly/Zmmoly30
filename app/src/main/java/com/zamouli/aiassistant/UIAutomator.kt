@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.automation
+package com.zamouli.aiassistant
 
 import android.app.AlertDialog
 import android.app.UiAutomation
