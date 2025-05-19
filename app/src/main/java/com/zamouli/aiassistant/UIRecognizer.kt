@@ -1,4 +1,4 @@
-package com.example.aiassistant
+package com.zamouli.aiassistant
 
 import android.content.Context
 import android.graphics.Bitmap
