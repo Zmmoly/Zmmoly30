@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.ui
+package com.zamouli.aiassistant
 
 /**
  * Data class representing a chat message
