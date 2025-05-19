@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.core
+package com.zamouli.aiassistant
 
 import android.app.AlarmManager
 import android.app.PendingIntent
