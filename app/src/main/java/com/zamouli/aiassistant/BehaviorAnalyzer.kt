@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.analysis
+package com.zamouli.aiassistant
 
 import android.app.usage.UsageEvents
 import android.app.usage.UsageStatsManager
