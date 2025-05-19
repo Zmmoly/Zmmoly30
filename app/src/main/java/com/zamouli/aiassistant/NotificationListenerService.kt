@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.services
+package com.zamouli.aiassistant
 
 import android.app.Notification
 import android.content.Intent
