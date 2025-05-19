@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.speech
+package com.zamouli.aiassistant
 
 import android.content.Context
 import android.util.Log
