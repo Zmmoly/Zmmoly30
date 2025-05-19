@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.ai
+package com.zamouli.aiassistant
 
 import android.content.Context
 import android.os.SystemClock
