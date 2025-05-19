@@ -1,4 +1,4 @@
-package com.example.aiassistant
+package com.zamouli.aiassistant
 
 import android.accessibilityservice.AccessibilityService
 import android.accessibilityservice.GestureDescription
