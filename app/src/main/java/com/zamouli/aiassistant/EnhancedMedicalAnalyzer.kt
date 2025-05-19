@@ -1,4 +1,4 @@
-package com.intelliai.assistant
+package com.zamouli.assistant
 
 import android.content.Context
 import android.util.Log
