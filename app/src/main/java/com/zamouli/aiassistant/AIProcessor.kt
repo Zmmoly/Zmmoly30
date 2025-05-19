@@ -65,6 +65,12 @@ class AIProcessor(private val context: Context) {
     // لإدارة الملف الشخصي للمستخدم
     private val userProfileManager = UserProfileManager(context)
     
+    // Device controller for advanced device functions
+    private val deviceController = DeviceController(context)
+    
+    // Web processor bridge for advanced web content extraction
+    private val webProcessorBridge = WebProcessorBridge(context)
+    
     // لتحليل سلوك المستخدم
     private val behaviorAnalyzer = BehaviorAnalyzer(context, userProfileManager)
     
