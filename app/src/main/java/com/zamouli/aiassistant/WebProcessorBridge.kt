@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.api
+package com.zamouli.aiassistant
 
 import android.content.Context
 import android.net.ConnectivityManager
