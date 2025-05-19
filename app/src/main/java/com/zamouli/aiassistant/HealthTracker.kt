@@ -1,4 +1,4 @@
-package com.zamouli.aiassistant.health
+package com.zamouli.aiassistant
 
 import android.Manifest
 import android.content.Context
